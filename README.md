@@ -58,43 +58,6 @@ Data Collection → Simulation → Quality Control → Alignment → Variant Cal
 
 ---
 
-## Repository Structure
-
-KRAS-targeted-NGS-pipeline/
-│
-├── primer_design/
-│ ├── primers.txt
-│ ├── primer3_parameters.txt
-│ └── target_region.fa
-│
-├── simulation/
-│ ├── KRAS_exon2_amplicon.fa
-│ └── simulated_reads.fastq
-│
-├── alignment/
-│ ├── reference_genome.fa
-│ ├── aligned_reads.sam
-│ └── sorted_reads.bam
-│
-├── variant_calling/
-│ └── kras_exon2_variants.vcf
-│
-├── visualization/
-│ └── IGV_mutation_view.png
-│
-├── example_outputs/
-│ ├── fastqc_per_base_quality.png
-│ ├── kras_exon2_variant_igv.png
-│ └── KRAS_exon2_mutant.vcf
-│
-├── commands/
-│ └── pipeline_commands.sh
-│
-├── report/
-│ └── KRAS_targeted_NGS_pipeline_report.pdf
-│
-└── README.md
-
 
 ## Full Report
 
