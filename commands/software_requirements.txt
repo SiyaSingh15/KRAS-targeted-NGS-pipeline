@@ -1,0 +1,14 @@
+Software Requirements
+
+ART
+BWA
+SAMtools
+bcftools
+FastQC
+IGV
+
+Recommended environment:
+Ubuntu / WSL with Conda (optional)
+
+Typical installation:
+sudo apt install bwa samtools bcftools fastqc

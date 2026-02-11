@@ -1,0 +1,23 @@
+Target Gene: KRAS
+Transcript ID: ENST00000256078
+Target Region: Exon 2 (with intronic flanking regions)
+
+Forward Primer:
+Sequence: GATACACGTCTGCAGTCAACT
+Length: 21 bp
+Tm: 58.05°C
+GC Content: 47.62%
+
+Reverse Primer:
+Sequence: TCAGTCATTTTCAGCAGGCCT
+Length: 21 bp
+Tm: 59.93°C
+GC Content: 47.62%
+
+Expected Amplicon Size: ~512 bp
+
+Primer Design Tool: Primer3 (https://primer3.ut.ee/)
+Design Strategy:
+- Exon-only sequence was initially tested but failed to generate stable primer pairs.
+- Intronic flanking regions were added to provide adequate template length.
+- Parameters were selected to reflect typical NGS amplicon requirements.

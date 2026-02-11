@@ -1,0 +1,24 @@
+Primer Design Parameters (Primer3)
+
+Primer Length:
+Min: 18 bp
+Optimal: 20 bp
+Max: 23 bp
+
+Melting Temperature (Tm):
+Min: 57°C
+Optimal: 60°C
+Max: 63°C
+
+GC Content:
+Min: 30%
+Max: 70%
+
+Product Size Range:
+400–600 bp
+
+Design Considerations:
+- Avoid primer-dimer formation
+- Maintain similar melting temperatures
+- Ensure stable GC content
+- Enable compatibility with paired-end sequencing
